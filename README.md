@@ -1,4 +1,4 @@
-# 🎞️ DevSubha CloneGiphy
+# 🎞️ Giphy Clone
 
 A modern and responsive Giphy clone web app built with **React.js** that lets users search, explore, and enjoy trending GIFs using the Giphy API.
 
@@ -69,7 +69,6 @@ This project uses the Giphy API. To make it work:
 You can deploy this project easily using:
 
 - **GitHub Pages**
-- **Vercel**
 - **Netlify**
 
 ---
