@@ -55,13 +55,6 @@ This project uses the Giphy API. To make it work:
    ```js
    const API_KEY = "YOUR_GIPHY_API_KEY";
    ```
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots of your app interface here, if available)*
-
 ---
 
 ## 📦 Deployment
